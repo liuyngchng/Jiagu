@@ -24,6 +24,7 @@
 ---
 
 ## 安装方式
+warning: python version > 3.7
 pip安装
 ```shell
 pip install -U jiagu
